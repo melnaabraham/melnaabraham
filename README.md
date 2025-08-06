@@ -1,11 +1,13 @@
 <h1>Hi, I'm Melna!<img src="https://media.tenor.com/6OQG2anfD4AAAAAj/easter-eggs-cute.gif" height="70px" width="70px">
 </h1>
 <p>
-  <a href="https://www.linkedin.com/in/melnaabraham/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
+<a href="https://www.linkedin.com/in/melnaabraham/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+  <a href="https://devpost.com/msa229" target="_blank">
+  <img src="https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white" />
+</a>
 </p>
-
 
 ## About Me
 - 🎓 Studying <strong>Computer Science</strong> @ <strong>NJIT</strong></li>
