@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Melna!<img src="https://media.tenor.com/6OQG2anfD4AAAAAj/easter-eggs-cute.gif" height="70px" width="70px">
+<h1>Hi, I'm Melna!<img src="https://media.tenor.com/6OQG2anfD4AAAAAj/easter-eggs-cute.gif" height="70px" width="70px">
 </h1>
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/melnaabraham/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
